@@ -1,0 +1,28 @@
+{
+  "name": "merge.env",
+  "version": "1.0.0",
+  "description": "A simple to merge various .env files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promethee/merge.env.git"
+  },
+  "keywords": [
+    "merge",
+    "dotenv",
+    "env",
+    "file"
+  ],
+  "author": "François Lunette <lunette.francois@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/promethee/merge.env/issues"
+  },
+  "homepage": "https://github.com/promethee/merge.env#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
